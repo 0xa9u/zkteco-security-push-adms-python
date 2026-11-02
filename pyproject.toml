@@ -1,0 +1,10 @@
+[project]
+name = "zkteco-security-push-receiver"
+version = "0.1.0"
+description = "Standalone diagnostic receiver for ZKTeco Security PUSH/ADMS card events"
+requires-python = ">=3.9"
+license = "MIT"
+keywords = ["zkteco", "adms", "security-push", "rfid", "raspberry-pi"]
+
+[tool.setuptools]
+py-modules = ["zkteco_push_probe"]
