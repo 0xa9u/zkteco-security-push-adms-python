@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+*.jsonl
+zkteco_registration_state.json
+zkteco_registration_state.json.tmp
+*.pcap
+*.pcapng
+.env
+.DS_Store
